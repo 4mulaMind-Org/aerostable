@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/control_core.dir/src/core.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "control_core",
+          "source-path": "/Users/abdulqadir/Desktop/workSpace/project/aerostable/src/core.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

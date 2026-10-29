@@ -1,0 +1,20 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/aerostable.dir/src/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "control_core"
+        },
+        {
+          "logical-name": "control_render"
+        },
+        {
+          "logical-name": "control_simulation"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

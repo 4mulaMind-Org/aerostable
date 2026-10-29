@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/aerostable.dir/src/main.cpp.o: dyndep | CMakeFiles/control_core.dir/control_core.pcm CMakeFiles/control_render.dir/control_render.pcm CMakeFiles/control_simulation.dir/control_simulation.pcm
+

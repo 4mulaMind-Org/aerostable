@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/control_render.dir/src/render.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "control_render",
+          "source-path": "/Users/abdulqadir/Desktop/workSpace/project/aerostable/src/render.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "control_core"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

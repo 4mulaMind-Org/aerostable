@@ -1,0 +1,30 @@
+{
+	"modules" : 
+	{
+		"control_simulation" : 
+		{
+			"bmi" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/build/CMakeFiles/control_simulation.dir/control_simulation.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"control_core" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/control_core.dir/control_core.pcm"
+		},
+		"control_simulation" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/control_simulation.dir/control_simulation.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"control_simulation" : 
+		[
+			"control_core"
+		]
+	}
+}

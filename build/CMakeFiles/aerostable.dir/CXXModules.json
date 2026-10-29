@@ -1,0 +1,32 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"control_core" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/control_core.dir/control_core.pcm"
+		},
+		"control_render" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/control_render.dir/control_render.pcm"
+		},
+		"control_simulation" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/control_simulation.dir/control_simulation.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"control_render" : 
+		[
+			"control_core"
+		],
+		"control_simulation" : 
+		[
+			"control_core"
+		]
+	}
+}

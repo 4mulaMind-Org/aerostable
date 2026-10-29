@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/control_simulation.dir/src/simulation.cppm.o | CMakeFiles/control_simulation.dir/control_simulation.pcm: dyndep | CMakeFiles/control_core.dir/control_core.pcm
+  restat = 1
+

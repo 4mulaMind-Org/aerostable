@@ -1,0 +1,3 @@
+-x c++-module
+-fmodule-output="CMakeFiles/control_simulation.dir/control_simulation.pcm"
+-fmodule-file="control_core=CMakeFiles/control_core.dir/control_core.pcm"

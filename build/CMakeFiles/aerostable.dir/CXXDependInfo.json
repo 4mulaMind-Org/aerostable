@@ -1,0 +1,32 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/build",
+	"dir-cur-src" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable",
+	"dir-top-bld" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/build",
+	"dir-top-src" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/Users/abdulqadir/Desktop/workSpace/project/aerostable/build/CMakeFiles/control_core.dir",
+		"/Users/abdulqadir/Desktop/workSpace/project/aerostable/build/CMakeFiles/control_render.dir",
+		"/Users/abdulqadir/Desktop/workSpace/project/aerostable/build/CMakeFiles/control_simulation.dir"
+	],
+	"module-dir" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/build/CMakeFiles/aerostable.dir",
+	"sources" : 
+	{
+		"CMakeFiles/aerostable.dir/src/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/src/main.cpp"
+		}
+	}
+}

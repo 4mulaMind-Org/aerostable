@@ -1,0 +1,44 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/control_simulation.dir/src/simulation.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"compile-features" : [],
+			"compile-options" : 
+			[
+				"-Wall",
+				"-Wextra",
+				"-O2"
+			],
+			"definitions" : [],
+			"destination" : null,
+			"include-directories" : [],
+			"name" : "CXX_MODULES",
+			"relative-directory" : "src",
+			"source" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/src/simulation.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/build",
+	"dir-cur-src" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable",
+	"dir-top-bld" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/build",
+	"dir-top-src" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/Users/abdulqadir/Desktop/workSpace/project/aerostable/build/CMakeFiles/control_core.dir"
+	],
+	"module-dir" : "/Users/abdulqadir/Desktop/workSpace/project/aerostable/build/CMakeFiles/control_simulation.dir",
+	"sources" : {}
+}

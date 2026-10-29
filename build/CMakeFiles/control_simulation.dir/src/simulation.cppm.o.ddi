@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/control_simulation.dir/src/simulation.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "control_simulation",
+          "source-path": "/Users/abdulqadir/Desktop/workSpace/project/aerostable/src/simulation.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "control_core"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
